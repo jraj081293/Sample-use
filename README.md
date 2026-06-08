@@ -1,4 +1,4 @@
 # Sample-use
 Sample use
 sample login
-sample pin entry
+sample pin verify screen
