@@ -2,3 +2,4 @@
 Sample use
 sample logout
 sample pin screen
+sample home
